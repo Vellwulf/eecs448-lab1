@@ -1,1 +1,1 @@
-init x = 10;
+init x = 20;
